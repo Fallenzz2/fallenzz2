@@ -26,6 +26,6 @@
   <h2 style="color:#FF0000; font-size: 26px;">⛩️ About Me ⛩️</h2>
   <p style="font-size: 18px; color:#E1E9F0; max-width: 600px;">
   
-I'm 17 years old and I'm a technology and programming enthusiast. I have a deep interest in programming. Currently, I'm focused on learning more and more. <strong>HTML</strong> and <strong>CSS</strong> as I build a strong foundation in web development.
+I'm 17 years old and I'm a technology and programming enthusiast. I have a deep interest in programming. Currently, I'm focused on learning more and more. 
   </p>
 </div>
