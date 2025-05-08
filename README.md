@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <h3 style="color:#FF0000;"><code>Jesus is the way, the truth, and the life</code></h3>
+  <h3 style="color:#FF0000;"><code>⛩️ 何事も始めるのに遅すぎるということはない。⛩️</code></h3>
 
   <hr/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Olukyr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fallenzz2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilothales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fallenzz2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -23,8 +23,9 @@
 ---
 
 <div align="center">
-  <h2 style="color:#FF0000; font-size: 26px;">🙋 About Me</h2>
+  <h2 style="color:#FF0000; font-size: 26px;">⛩️ About Me ⛩️</h2>
   <p style="font-size: 18px; color:#E1E9F0; max-width: 600px;">
-    I'm an 18-year-old enthusiast of technology and creativity. I have a deep interest in video editing, gaming, and programming, and I am passionate about my faith in Jesus. Currently, I'm focused on learning <strong>HTML</strong> and <strong>CSS</strong> as I build a strong foundation in web development.
+  
+I'm 17 years old and I'm a technology and programming enthusiast. I have a deep interest in programming. Currently, I'm focused on learning more and more. <strong>HTML</strong> and <strong>CSS</strong> as I build a strong foundation in web development.
   </p>
 </div>
